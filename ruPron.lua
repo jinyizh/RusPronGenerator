@@ -96,17 +96,13 @@ FIXME:
 19. (DONE, ANSWER IS YES) do сь and зь assimilate before шж, and
     if so do they become ɕʑ? Ask Cinemantique.
 20. (DONE) Add pos= to handle final -е. Possibilities appear to be neut
-    (neuter noun), adj (adjective, autodetected whether singular or 
-plural),
-	comp (comparative), pre (prepositional case), adv (adverb), verb 
-or v (2nd
+    (neuter noun), adj (adjective, autodetected whether singular or plural),
+	comp (comparative), pre (prepositional case), adv (adverb), verb or v (2nd
 	plural verb forms).
 21. (DONE, DEVOICE UNLESS NEXT WORD BEGINS WITH VOICED OBSTRUENT OR V+VOICED
     OBSTRUENT) Figure out what to do with devoicing or non-devoicing before
-	mnrlv vowel. Apparently non-devoicing before vowel is only in fast 
-speech
-	with a close juncture and Anatoli doesn't want that; but what 
-about before
+	mnrlv vowel. Apparently non-devoicing before vowel is only in fast speech
+	with a close juncture and Anatoli doesn't want that; but what about before
 	the consonants?
 22. (DONE) Figure out what to do with fronting of a and u after or between
 	soft consonants, esp. when triggered by a following soft consonant with
